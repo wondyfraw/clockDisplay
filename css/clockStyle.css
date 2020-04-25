@@ -1,0 +1,15 @@
+
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+}
+div{
+    border: 2px solid;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: lightgray;
+}
